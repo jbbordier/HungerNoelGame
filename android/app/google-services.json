@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127611228372",
+    "project_id": "hungernoelgame",
+    "storage_bucket": "hungernoelgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127611228372:android:7bcfbadf33f002420bab41",
+        "android_client_info": {
+          "package_name": "com.example.hungernoelgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127611228372-vrcoli17pb3tg1be4ajg3u23rq77g8a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnoKVfZOcmknXikLZt6mgQg608VSo-sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127611228372-vrcoli17pb3tg1be4ajg3u23rq77g8a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
